@@ -1,4 +1,4 @@
-# Parcial de Programación 1 - E-commerce de Artículos Deportivos
+# Obligatorio de Programación 1 - E-commerce de Artículos Deportivos
 
 ## Descripción del Proyecto
 
